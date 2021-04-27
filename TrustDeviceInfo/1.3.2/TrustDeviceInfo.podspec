@@ -12,9 +12,9 @@ Pod::Spec.new do |s|
 
   s.author       = { "Kevin Torres" => "ktorres@jumpitt.com" }
   
-  s.homepage     = "https://github.com/trusttechnologies/TrustDeviceInfo"
+  s.homepage     = "https://gitlab.com/trustchile/movil/lat_trust_mobile_ios_trust-identify_library"
 
-  s.source       = { :git => "https://github.com/trusttechnologies/TrustDeviceInfo.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://gitlab.com/trustchile/movil/lat_trust_mobile_ios_trust-identify_library.git", :tag => "#{s.version}" }
 
   s.framework = "UIKit"
 
